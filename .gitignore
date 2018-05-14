@@ -1,3 +1,4 @@
 node_modules/
 ./extract-function-1/output.html
+./extract-function-2/*.png
 
